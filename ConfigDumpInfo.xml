@@ -1,4 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
-	<ConfigVersions/>
+	<ConfigVersions>
+		<Metadata name="Catalog.Клиенты" id="3c9a0040-6b5c-46df-998b-75fc0b27765e" configVersion="52e20d461a31eb4d9396d254bbb4a6bb00000000"/>
+		<Metadata name="Catalog.Товары" id="0f3937da-c22f-43d9-aa1e-2a517d3d39c7" configVersion="6f6a72488d3ac047b51c84833b6f87e300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="bfda1997-1e4a-40bf-aa7b-c7716aef90a1" configVersion="ae0c9ca75afab345914e7db67890736700000000"/>
+		<Metadata name="Language.Русский" id="e1c1120e-599b-4078-977e-8ad41f257bf2" configVersion="e41737f11195b349bc9ad0c4d6bd246500000000"/>
+		<Metadata name="Subsystem.Продажи" id="945530fe-7b56-429f-b3db-f6b540af518e" configVersion="cac8ed2b8c9e814f92a14e0baba5761d00000000"/>
+	</ConfigVersions>
 </ConfigDumpInfo>
