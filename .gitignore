@@ -1,0 +1,41 @@
+# 1C:Enterprise temporary files and local infobases
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.log
+*.lgf
+*.lgd
+*.lgp
+*.mxl
+*.st
+1Cv8.1CD
+1Cv8.1CL
+1Cv8.lgf
+1Cv8.lgd
+1Cv8Log/
+1Cv8FTxt/
+1Cv8Tmp/
+
+# 1C binary exports and update packages
+*.cf
+*.cfu
+*.dt
+*.epf
+*.erf
+
+# 1C Designer and EDT local state
+.settings/
+.metadata/
+.recommenders/
+bin/
+out/
+target/
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
