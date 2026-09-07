@@ -248,6 +248,8 @@
 			<Subsystem>Продажи</Subsystem>
 			<Catalog>Товары</Catalog>
 			<Catalog>Клиенты</Catalog>
+			<Document>Поступление</Document>
+			<Document>Продажа</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
