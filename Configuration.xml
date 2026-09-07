@@ -250,6 +250,7 @@
 			<Catalog>Клиенты</Catalog>
 			<Document>Поступление</Document>
 			<Document>Продажа</Document>
+			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
