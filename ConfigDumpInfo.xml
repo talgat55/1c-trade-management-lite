@@ -24,7 +24,7 @@
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Товар" id="f0d93448-8d86-4bf7-8322-53c4bbf19387"/>
 		</Metadata>
 		<Metadata name="Document.Поступление.ObjectModule" id="5f41977c-9376-429e-a25a-26000da282e2.0" configVersion="ca9fbf4069e23049890a507ddcfa8b3400000000"/>
-		<Metadata name="Document.Продажа" id="54db33d5-a458-4f87-8c40-07a28a6d69f5" configVersion="66270752f056154eb61883040fe9a50b00000000">
+		<Metadata name="Document.Продажа" id="54db33d5-a458-4f87-8c40-07a28a6d69f5" configVersion="b905351b29787049a5ed7fcfe29a76c100000000">
 			<Metadata name="Document.Продажа.TabularSection.Товары.Attribute.Цена" id="1445f7d5-9d0f-45e5-a52d-b433f471071e"/>
 			<Metadata name="Document.Продажа.TabularSection.Товары.Attribute.Товар" id="1aaed0b0-b70b-4c3d-a508-bdad91b2e026"/>
 			<Metadata name="Document.Продажа.Attribute.Клиент" id="2ddf6eed-9a36-4f4b-8e6a-a8822af71ef4"/>
@@ -33,10 +33,11 @@
 			<Metadata name="Document.Продажа.Attribute.ИтоговаяСумма" id="9527e059-009e-4e59-bac5-edb3578c0843"/>
 			<Metadata name="Document.Продажа.TabularSection.Товары.Attribute.Количество" id="d04764ef-4558-4e84-8d64-234177495e5f"/>
 		</Metadata>
-		<Metadata name="Document.Продажа.Form.ФормаДокумента" id="06c6b839-3f63-421c-88fb-e7fb516e813e" configVersion="85ac812612070041ad0c8758cecd739500000000"/>
-		<Metadata name="Document.Продажа.Form.ФормаДокумента.Form" id="06c6b839-3f63-421c-88fb-e7fb516e813e.0" configVersion="ef2542b18e01954087f20f44ac870bc600000000"/>
-		<Metadata name="Document.Продажа.ObjectModule" id="54db33d5-a458-4f87-8c40-07a28a6d69f5.0" configVersion="ab4d99dd6a876445b85141d3ce63517a00000000"/>
+		<Metadata name="Document.Продажа.Form.ФормаДокумента" id="06c6b839-3f63-421c-88fb-e7fb516e813e" configVersion="03b9a607c2959c4f8c91ca98b19a6fc700000000"/>
+		<Metadata name="Document.Продажа.Form.ФормаДокумента.Form" id="06c6b839-3f63-421c-88fb-e7fb516e813e.0" configVersion="7ba4d4599ca3ea42b2c254f466475fb800000000"/>
+		<Metadata name="Document.Продажа.ObjectModule" id="54db33d5-a458-4f87-8c40-07a28a6d69f5.0" configVersion="fe1c28be7ed2c54a927397f6be5d376f00000000"/>
 		<Metadata name="Language.Русский" id="e1c1120e-599b-4078-977e-8ad41f257bf2" configVersion="e41737f11195b349bc9ad0c4d6bd246500000000"/>
-		<Metadata name="Subsystem.Продажи" id="945530fe-7b56-429f-b3db-f6b540af518e" configVersion="999df6aa1b4976448245b73d1d0838ca00000000"/>
+		<Metadata name="Subsystem.Продажи" id="945530fe-7b56-429f-b3db-f6b540af518e" configVersion="2e81cfb27f98814eac1f2c55679f404800000000"/>
+		<Metadata name="Subsystem.Продажи.CommandInterface" id="945530fe-7b56-429f-b3db-f6b540af518e.1" configVersion="79d8cce64685ed41968ac3009685512b00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
