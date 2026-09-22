@@ -13,7 +13,7 @@
 			<Metadata name="Catalog.Товары.Attribute.Цена" id="178a3978-70f0-43ba-a2e5-c7f6876138be"/>
 			<Metadata name="Catalog.Товары.Attribute.Артикул" id="a6726826-985f-437e-b701-40db502407a3"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="bfda1997-1e4a-40bf-aa7b-c7716aef90a1" configVersion="9cec307b50aa1e4381ef3f7b7970084700000000"/>
+		<Metadata name="Configuration.Конфигурация" id="bfda1997-1e4a-40bf-aa7b-c7716aef90a1" configVersion="e6db86f2d899284aa2aabdd3a2e560df00000000"/>
 		<Metadata name="Document.Поступление" id="5f41977c-9376-429e-a25a-26000da282e2" configVersion="457b00fbd5c56d4ca97c566155d9c11d00000000">
 			<Metadata name="Document.Поступление.Attribute.ИтоговаяСумма" id="2464eaa4-125f-4fef-a813-50efff123ef8"/>
 			<Metadata name="Document.Поступление.TabularSection.Товары" id="3dfcb877-87cc-490a-8e24-b7e12d8e77b0"/>
@@ -42,7 +42,10 @@
 		<Metadata name="Report.ОстаткиТоваров" id="cc11f9fa-e67d-4386-9608-a7d3d61fa742" configVersion="094970f274570b448e7cfaa5cd8afc2000000000"/>
 		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="bab8fd11-e8e9-40f6-a34d-ca80e69392d5" configVersion="ab67daaa2aee534a998c030a9b870fe100000000"/>
 		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="bab8fd11-e8e9-40f6-a34d-ca80e69392d5.0" configVersion="24477e3e7c940840a86943b1907526af00000000"/>
-		<Metadata name="Subsystem.Продажи" id="945530fe-7b56-429f-b3db-f6b540af518e" configVersion="4ee0f771980edb46ba9a720694ed383200000000"/>
-		<Metadata name="Subsystem.Продажи.CommandInterface" id="945530fe-7b56-429f-b3db-f6b540af518e.1" configVersion="75b353ead0e73840931dd16a814a5d2600000000"/>
+		<Metadata name="Report.ПродажиПоКлиентам" id="4871e91c-2f5e-4014-b8df-5157ca5486f3" configVersion="b9df3e9f3d5f7e49bb0c31256cb5d50b00000000"/>
+		<Metadata name="Report.ПродажиПоКлиентам.Template.Макет" id="295be8a3-b8e8-444a-9f15-e6408c6db80d" configVersion="69d70ef800e5a241b365d3c8ae31571200000000"/>
+		<Metadata name="Report.ПродажиПоКлиентам.Template.Макет.Template" id="295be8a3-b8e8-444a-9f15-e6408c6db80d.0" configVersion="75a6a8aef3a5b34ab26d550f7b8a022b00000000"/>
+		<Metadata name="Subsystem.Продажи" id="945530fe-7b56-429f-b3db-f6b540af518e" configVersion="0ddbba5e1fdda24cae3b7fdaa03ab2cd00000000"/>
+		<Metadata name="Subsystem.Продажи.CommandInterface" id="945530fe-7b56-429f-b3db-f6b540af518e.1" configVersion="c56d90354ae597499415f81e5149b0d800000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

@@ -251,6 +251,7 @@
 			<Document>Поступление</Document>
 			<Document>Продажа</Document>
 			<Report>ОстаткиТоваров</Report>
+			<Report>ПродажиПоКлиентам</Report>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
