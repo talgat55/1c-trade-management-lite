@@ -250,6 +250,7 @@
 			<Catalog>Клиенты</Catalog>
 			<Document>Поступление</Document>
 			<Document>Продажа</Document>
+			<Report>ОстаткиТоваров</Report>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
